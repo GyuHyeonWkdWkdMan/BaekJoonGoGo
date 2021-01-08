@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	int tmp
 	int C;
 	int N;
 	float average = 0;

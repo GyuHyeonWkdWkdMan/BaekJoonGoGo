@@ -20,5 +20,5 @@ int main()
         
     }
     cout << max << endl;
-    cout << cnt << endl;
+    cout << cnt;
 }

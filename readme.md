@@ -1,4 +1,4 @@
-*** baekjoon 문제 풀이 ***
+# baekjoon 문제 풀이
 
 C : 대학생때함
 

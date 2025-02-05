@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class b1037 {
+
+// 약수드로부터 원본 수 구하기
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
